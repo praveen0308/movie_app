@@ -1,4 +1,4 @@
-# movie_app
+# Movie App
 
 Flutter project using TheMovieDB API with Clean Architecture practice
 
