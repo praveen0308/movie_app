@@ -10,6 +10,7 @@ This Flutter project is structured based on the principles of Clean Architecture
 - [Overview](#overview)
 - [Architecture](#architecture)
 - [Screenshots](#screenshots)
+- [Video Demo](#video-demo)
 - [Getting Started](#getting-started)
 - [Running the Project](#running-the-project)
 
@@ -36,8 +37,10 @@ Here are some screenshots of the application:
 <img src="screenshots%2FScreenshot_20240729_021614.png" alt="Screenshot 2" width="300">
 <img src="screenshots%2FScreenshot_20240729_021635.png" alt="Screenshot 3" width="300">
 <img src="screenshots%2FScreenshot_20240729_021722.png" alt="Screenshot 4" width="300">
-### Screen Recording
-![Video Recording](path_to_video_recording.png)
+
+
+## Video Demo
+![Video Recording](https://drive.google.com/file/d/1I-Dm8dOWBp6Jg7jvQ_Qhw0lID0kmHHVW/view?usp=sharing)
 
 ## Getting Started
 
