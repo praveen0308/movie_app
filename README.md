@@ -83,4 +83,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Project Link: [https://github.com/your_username/your_project](https://github.com/your_username/your_project)
+Project Link: [https://github.com/praveen0308/movie_app](https://github.com/praveen0308/movie_app)
