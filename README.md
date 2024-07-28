@@ -32,11 +32,10 @@ The Presentation layer handles the UI of the application. It contains the views,
 
 Here are some screenshots of the application:
 
-![Screenshot_20240729_021646.png](screenshots%2FScreenshot_20240729_021646.png)
-![Screenshot_20240729_021614.png](screenshots%2FScreenshot_20240729_021614.png)
-![Screenshot_20240729_021635.png](screenshots%2FScreenshot_20240729_021635.png)
-![Screenshot_20240729_021722.png](screenshots%2FScreenshot_20240729_021722.png)
-
+<img src="screenshots%2FScreenshot_20240729_021646.png" alt="Screenshot 1" width="300">
+<img src="screenshots%2FScreenshot_20240729_021614.png" alt="Screenshot 2" width="300">
+<img src="screenshots%2FScreenshot_20240729_021635.png" alt="Screenshot 3" width="300">
+<img src="screenshots%2FScreenshot_20240729_021722.png" alt="Screenshot 4" width="300">
 ### Screen Recording
 ![Video Recording](path_to_video_recording.png)
 
