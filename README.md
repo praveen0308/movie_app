@@ -40,7 +40,8 @@ Here are some screenshots of the application:
 
 
 ## Video Demo
-![Video Recording](https://drive.google.com/file/d/1I-Dm8dOWBp6Jg7jvQ_Qhw0lID0kmHHVW/view?usp=sharing)
+You can watch the video recording of the app [here](https://drive.google.com/file/d/1I-Dm8dOWBp6Jg7jvQ_Qhw0lID0kmHHVW/view).
+
 
 ## Getting Started
 
